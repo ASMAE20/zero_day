@@ -1,2 +1,2 @@
 The `uname` command, when run without any option, prints the name of the operating system running on the machine. On my Ubuntu VM, running `uname` prints:
-
+Linux
